@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/*
+# EJERCICIO
+
+Escriba reglas para los elementos `h1` a` h6` que establezcan su `font-size` en` 24px` menos `3px` veces el nivel del encabezado, 
+es decir,` h1` tendría un `font-size` de` 24px - 3px * 1` igual a `21px`, usando la directiva` @ for`.
+
+*/
+.h1 {
+  font-size: 21px;
+}
+
+.h2 {
+  font-size: 18px;
+}
+
+.h3 {
+  font-size: 15px;
+}
+
+.h4 {
+  font-size: 12px;
+}
+
+.h5 {
+  font-size: 9px;
+}
+
+.h6 {
+  font-size: 6px;
+}
+/*# sourceMappingURL=problem2.css.map */

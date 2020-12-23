@@ -1,0 +1,12 @@
+/*
+# EJERCICIO
+
+Defina una variable `$selector` y establezca su valor en 'article'. Luego escriba una regla usando el valor interpolado
+de la variable `$selector` como selector, y establezca su `color` en `#ff0000`.
+*/
+
+$selector: article;
+
+#{$selector} {
+    color: #ff0000;
+}

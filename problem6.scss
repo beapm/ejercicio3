@@ -1,0 +1,15 @@
+/*
+
+# EJERCICIO
+Escriba un 'borde' mixin que acepte una variable '$ grosor' y establezca el estilo 'border-width' en el valor de '$ grosor'. 
+Luego, incluya el mixin en una regla para el elemento `img`, y establezca su grosor de borde en` 10px`.
+
+*/
+
+@mixin border($grosor) {
+    border-width: $grosor;
+}
+
+img {
+    @include border(10px)
+}

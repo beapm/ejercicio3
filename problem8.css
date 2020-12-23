@@ -1,0 +1,12 @@
+/*
+# EJERCICIO
+Escriba una hoja de estilo que establezca `margin: 0` en` ul`, y el color de los enlaces en `red` para los elementos
+contenidos dentro de un elemento` aside`, utilizando el anidamiento.
+*/
+aside ul {
+  margin: 0;
+}
+
+aside a {
+  color: red;
+}

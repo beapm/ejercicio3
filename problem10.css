@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/*
+# EJERCICIO
+Escriba una regla para el elemento `button` estableciendo su `color` en 'black', y use el selector principal `&` para
+establecer su `color` en 'red' cuando el elemento tenga foco, a través del pseudo selector `:focus` .
+*/
+button {
+  color: black;
+}
+
+button:focus {
+  color: red;
+}

@@ -1,0 +1,10 @@
+/*
+# EJERCICIO
+Defina una variable `$page-width` con un valor de` 1400px`, y una variable `$padding` con un valor de `20px`. Luego,
+defina una regla para un selector `.container`, establezca su `padding` en el valor de `$padding`, y su `width` en `0.8`
+veces el valor de `$page-width`, menos dos veces valor de `$padding`.
+*/
+.container {
+  padding: 20px;
+  width: 1080px;
+}

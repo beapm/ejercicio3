@@ -1,0 +1,11 @@
+/*
+# EJERCICIO
+Escriba una hoja de estilo que defina una variable `$ color`, establezca su valor en '# 000' y la use para establecer el
+estilo` color` del elemento `body`.
+*/
+
+$color: #000;
+
+body {
+    color: $color;
+}

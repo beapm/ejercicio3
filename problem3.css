@@ -1,0 +1,9 @@
+/*
+# EJERCICIO
+
+Escriba un parcial que defina una variable `$color` y establezca su valor en '#ff0000', y una hoja de estilo que importe
+el parcial, y use la variable para establecer el estilo `color` del elemento del cuerpo.
+*/
+body {
+  color: #ff0000;
+}

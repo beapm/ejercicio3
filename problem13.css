@@ -1,0 +1,28 @@
+/*
+# EJERCICIO
+Escriba un script Sass que genere reglas para los selectores `. # {$ Big-cat} -picture`, donde `$ big-cat` es
+uno de 'cheetah', 'puma', 'jaguar', 'panther', ' tigre ',' leopardo ', y establece su' relleno 'en' 3em '.
+*/
+.cheetah-picture {
+  padding: 3em;
+}
+
+.puma-picture {
+  padding: 3em;
+}
+
+.jaguar-picture {
+  padding: 3em;
+}
+
+.panther-picture {
+  padding: 3em;
+}
+
+.tigre-picture {
+  padding: 3em;
+}
+
+.leopardo-picture {
+  padding: 3em;
+}

@@ -1,0 +1,10 @@
+/*
+# EJERCICIO
+Defina un selector `.sassy` y use propiedades anidadas para establecer `border-width` en '10px', `border-color` en 'red'
+y` border-radius` en '5px'.
+*/
+.sassy {
+  border-width: 10px;
+  border-color: red;
+  border-radius: 5px;
+}
